@@ -2,8 +2,8 @@
 
 I'm a FullStack Web Developer from Alicante,Spain 🇪🇸
 
-- ✉️ Email: tuemail@ejemplo.com
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/eric-paredes-romero-7b8535212)
+- ✉️ Email: ericange@hotmail.es
+- 💼 LinkedIn: https://linkedin.com/in/eric-paredes-romero-7b8535212
 
 ### 🧱 Tech Stack
 
@@ -31,6 +31,5 @@ I'm a FullStack Web Developer from Alicante,Spain 🇪🇸
 # GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ericange&theme=dark)](https://git.io/streak-stats)
-
 
 
